@@ -438,35 +438,7 @@ AI_MODEL=gpt-4o-mini
 
 ---
 
-## 📸 Application Preview
 
-> Screenshots can be added here once the application is running. Below are the screens available in LegalLens.
-
-### Landing Page
-> Hero section with the main heading, feature cards, a 3-step "How it works" section, and the legal disclaimer.
-
-### Dashboard
-> Stats cards (Total Documents, Documents Analyzed, High Risk Documents, Average Risk Score) and a recent documents table with a sidebar navigation.
-
-### Document Upload
-> Drag-and-drop upload zone with file validation, file list with name/size/type, upload progress, and an animated analysis loading screen.
-
-### Analysis Results
-> Full analysis dashboard showing document name, type, analysis date, risk score gauge, and risk level badge.
-
-### Risk Analysis
-> Dedicated section with risk cards showing title, level badge, explanation, relevant clause, why it matters, and suggested review point.
-
-### Key Clauses
-> Grid of clause cards with original text, plain-English explanation, importance, and risk level badges.
-
-### Ask AI
-> Chat interface with suggested questions, message history, and a text input to ask custom questions about the document.
-
-### Document History
-> Sortable, searchable, and filterable table of all analyzed documents with view and delete actions.
-
----
 
 ## 🎯 Key Capabilities
 
