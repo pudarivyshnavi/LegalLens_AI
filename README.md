@@ -519,13 +519,11 @@ LegalLens is an evolving educational project. Planned future improvements includ
 | Platform | Link |
 |---|---|
 | **GitHub** | [https://github.com/pudarivyshnavi](https://github.com/pudarivyshnavi) |
-| **LinkedIn** | _Add your LinkedIn profile URL here_ |
+| **LinkedIn** | (https://www.linkedin.com/in/pudari-vyshnavi-99a394316/) |
 
 ---
 
-## 📄 License
 
-This project does not currently have a license file. If you plan to share or reuse this code, consider adding a license (such as the MIT License) to define the terms of use.
 
 ---
 
